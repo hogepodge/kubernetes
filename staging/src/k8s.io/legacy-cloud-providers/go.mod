@@ -11,7 +11,9 @@ require (
 	github.com/GoogleCloudPlatform/k8s-cloud-provider v0.0.0-20181220005116-f8e995905100
 	github.com/aws/aws-sdk-go v1.16.26
 	github.com/dnaeon/go-vcr v1.0.1 // indirect
+	github.com/gophercloud/gophercloud v0.1.0
 	github.com/marstr/guid v0.0.0-20170427235115-8bdf7d1a087c // indirect
+	github.com/mitchellh/mapstructure v1.1.2
 	github.com/prometheus/client_golang v0.9.2
 	github.com/rubiojr/go-vhd v0.0.0-20160810183302-0bfd3b39853c
 	github.com/satori/go.uuid v1.2.0 // indirect
@@ -19,6 +21,7 @@ require (
 	github.com/vmware/govmomi v0.20.1
 	golang.org/x/crypto v0.0.0-20190611184440-5c40567a22f8
 	golang.org/x/oauth2 v0.0.0-20190402181905-9f3314589c9a
+	golang.org/x/sys v0.0.0-20190616124812-15dcb6c0061f
 	google.golang.org/api v0.0.0-20181220000619-583d854617af
 	gopkg.in/gcfg.v1 v1.2.0
 	gopkg.in/warnings.v0 v0.1.1 // indirect
