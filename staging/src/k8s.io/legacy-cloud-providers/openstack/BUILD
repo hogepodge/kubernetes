@@ -103,8 +103,6 @@ filegroup(
     name = "all-srcs",
     srcs = [
         ":package-srcs",
-        "//staging/src/k8s.io/legacy-cloud-providers/openstack/util/file:all-srcs",
-        "//staging/src/k8s.io/legacy-cloud-providers/openstack/util/io:all-srcs",
         "//staging/src/k8s.io/legacy-cloud-providers/openstack/util/mount:all-srcs",
     ],
     tags = ["automanaged"],
